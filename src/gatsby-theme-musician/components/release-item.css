@@ -1,0 +1,13 @@
+.c012 {
+  backface-visibility: visible !important;
+  position: relative !important;
+  transition: all 0.5s;
+}
+.c015 .c012 {
+  filter: brightness(50%) blur(3px);
+}
+.backCover {
+  margin-top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

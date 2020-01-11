@@ -1,22 +1,25 @@
 artist:
-  name: Your Awesome Band
-  tagline: Short information about your group, new album, etc
-  # seo_title:
-  # seo_description:
-  # contact_twitter_username:
-  # contact_phone: 
-  # contact_email: 
+  name: Oliver Barabas
+  tagline:
+    first: Music Producer.
+    second: Web Developer.
+    third: Proud Dad.
+  seo_title: Oliver Barabas
+  seo_description: Music Producer. Web Developer. Proud Dad.
+  contact_twitter_username: oliverbarabas
+  # contact_phone:
+  # contact_email:
 
 social:
-  - name: Facebook
-    url: https://facebook.com
   - name: Instagram
-    url: https://instagram.com
+    url: https://instagram.com/obarabas
   - name: Twitter
-    url: https://twitter.com
+    url: https://twitter.com/oliverbarabas
   - name: Youtube
-    url: https://youtube.com
+    url: https://youtube.com/bazzdream
   - name: Spotify
-    url: https://spotify.com
+    url: https://open.spotify.com/artist/23WPyLTvehei1DDp3TljK3
+  - name: Soundcloud
+    url: https://soundcloud.com/bazzdream/tracks
 
 site_language: en

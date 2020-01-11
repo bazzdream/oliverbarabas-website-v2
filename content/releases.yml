@@ -1,25 +1,186 @@
-- title: Sample Release 1
-  date: 2014-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
+- title: Rise
+  date: 2016-09-01
+  release_type: Single
+  image: "./images/release-1.jpg"
   links:
-    - name: Discogs
-      url: https://discogs.com
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
 
-- title: Sample Release 2
-  date: 2018-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
+- title: Freedom (feat. Loelitah)
+  date: 2016-12-06
+  release_type: EP
+  image: "./images/release-2.jpg"
   links:
-    - name: Bandcamp
-      url: https://bandcamp.com
+    - name: Spotify
+      url: https://open.spotify.com/album/1iIFAFHOf21awdH74Ar4Lg?si=x4jpOLqQSvid7eWybuHZEA
+    - name: Apple Music
+      url: https://music.apple.com/us/album/freedom-feat-loelitah-ep/1183025725
 
-- title: Sample Release 3
-  date: 2019-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
+- title: STBN - All We Need Is Love
+  date: 2017-02-03
+  release_type: Remix
+  image: "./images/release-3.jpg"
   links:
     - name: Spotify
       url: https://open.spotify.com
     - name: Apple Music
       url: https://music.apple.com
+
+- title: Future Trance 80
+  date: 2017-05-26
+  release_type: CD 3, Track 3
+  image: "./images/release-4.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com
+    - name: Apple Music
+      url: https://music.apple.com
+
+- title: Technobase.FM Vol. 16
+  date: 2017-06-02
+  release_type: CD 2, Track 12 & CD 3, Track 8
+  image: "./images/release-5.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com
+    - name: Apple Music
+      url: https://music.apple.com
+
+- title: DJ Kash feat. Laura Saggers - Rev It Up
+  date: 2017-06-23
+  release_type: Remix
+  image: "./images/release-6.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com
+    - name: Apple Music
+      url: https://music.apple.com
+
+- title: You And Me
+  date: 2017-06-27
+  release_type: Single
+  image: "./images/release-7.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com
+    - name: Apple Music
+      url: https://music.apple.com
+
+- title: Marc Need - Nevermore (Handsup Edition)
+  date: 2017-08-18
+  release_type: Remix
+  image: "./images/release-8.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com
+    - name: Apple Music
+      url: https://music.apple.com
+
+- title: Bounce Monsters Vol. 1 (Upfront EDM & Bounce Tunes)
+  date: 2017-08-19
+  release_type: CD 1, Track 21
+  image: "./images/release-9.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com
+    - name: Apple Music
+      url: https://music.apple.com
+
+- title: Rise 2.0
+  date: 2017-09-01
+  release_type: EP
+  image: "./images/release-10.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: Technobase.FM Vol. 17
+  date: 2017-09-01
+  release_type: CD 3, Track 9
+  image: "./images/release-11.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: Technobase.FM Vol. 18
+  date: 2017-12-01
+  release_type: CD 3, Track 3
+  image: "./images/release-12.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: Feelings
+  date: 2017-12-05
+  release_type: Single
+  image: "./images/release-13.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: Let's Bounce (feat. Loelitah)
+  date: 2017-12-08
+  release_type: EP
+  image: "./images/release-14.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: TeCay & Vandice - Turn It Up Again
+  date: 2018-01-26
+  release_type: Remix
+  image: "./images/release-15.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: Freedom 2.0
+  date: 2018-07-20
+  release_type: EP
+  image: "./images/release-16.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: Oceans (Instrumental)
+  date: 2018-09-28
+  release_type: Single
+  image: "./images/release-17.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: R.Gee & TeCay - Are You Ready 2.0
+  date: 2018-10-26
+  release_type: Remix
+  image: "./images/release-18.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: Cherry Inc. feat. CvB - Call Me
+  date: 2018-11-16
+  release_type: Remix
+  image: "./images/release-19.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: Oceans
+  date: 2018-11-30
+  release_type: Single
+  image: "./images/release-17.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+
+- title: TeCay - Remember Me
+  date: 2018-12-14
+  release_type: Remix
+  image: "./images/release-20.jpg"
+  tracklist:
+    - name: afsdf
+    - name: ifddfs
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
