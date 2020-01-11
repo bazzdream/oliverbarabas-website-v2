@@ -2,14 +2,24 @@
   date: 2016-09-01
   release_type: Single
   image: "./images/release-1.jpg"
+  tracklist:
+    - name: Original Mix
   links:
     - name: Spotify
       url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+    - name: Apple Music
+      url: https://music.apple.com/us/album/rise-single/1279613253
 
 - title: Freedom (feat. Loelitah)
   date: 2016-12-06
   release_type: EP
   image: "./images/release-2.jpg"
+  tracklist:
+    - name: Original Mix
+    - name: Extended Mix
+    - name: Airon Kern Remix
+    - name: HighGo Remix
+    - name: Nadi Sunrise Remix
   links:
     - name: Spotify
       url: https://open.spotify.com/album/1iIFAFHOf21awdH74Ar4Lg?si=x4jpOLqQSvid7eWybuHZEA
@@ -20,167 +30,288 @@
   date: 2017-02-03
   release_type: Remix
   image: "./images/release-3.jpg"
+  tracklist:
+    - name: Radio Edit
+    - name: Club Mix
+    - name: Eastfreaks Remix
+    - name: Manu3L Remix
+    - name: Heath Walker Remix
+    - name: Denis Pewny Remix
+    - name: Oliver Barabas Remix
+    - name: Jay&Dee Remix
+    - name: Sashman Remix
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/album/5PgHiy5ZMZ50MR0JM43FuZ?si=vRqKMz_YSGOdSTwvJ6ME0A
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/all-we-need-is-love/1382736653
 
 - title: Future Trance 80
   date: 2017-05-26
-  release_type: CD 3, Track 3
+  release_type: Various Artists
   image: "./images/release-4.jpg"
+  tracklist:
+    - name: Axwell /\ Ingrosso - I Love You
+    - name: Martin Garrix & Dua Lipa - Scared To Be Lonely (Brooks Remix)
+    - name: STBN - All We Need Is Love (Oliver Barabas Remix)
+    - name: Gareth Emery & Standerwick - Saving Light (feat. Haliene)
+    - name: ... and many more
   links:
-    - name: Spotify
-      url: https://open.spotify.com
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/de/album/future-trance-80/1440722128
+    - name: Amazon Music
+      url: https://www.amazon.de/Future-Trance-Explicit-Various-artists/dp/B071NNYY1Q
 
 - title: Technobase.FM Vol. 16
   date: 2017-06-02
   release_type: CD 2, Track 12 & CD 3, Track 8
   image: "./images/release-5.jpg"
+  tracklist:
+    - name: Bangbros - Children
+    - name: Pulsedriver & Chris Deelay - Geiles Gefühl
+    - name: DJ Kash - Rev It Up (Oliver Barabas Remix)
+    - name: R.Gee & TeCay - Are You Ready 2.0 (Oliver Barabas Remix)
+    - name: ... and many more
   links:
-    - name: Spotify
-      url: https://open.spotify.com
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/de/album/technobase-fm-vol-16/1242342704
+    - name: Amazon Music
+      url: https://www.amazon.de/TechnoBase-FM-Vol-16-Various-artists/dp/B071248WV3
 
 - title: DJ Kash feat. Laura Saggers - Rev It Up
   date: 2017-06-23
   release_type: Remix
   image: "./images/release-6.jpg"
+  tracklist:
+    - name: Original Mix
+    - name: VIP Mix
+    - name: TeCay Remix
+    - name: Manu3L Remix
+    - name: Oliver Barabas Remix
   links:
     - name: Spotify
-      url: https://open.spotify.com
-    - name: Apple Music
-      url: https://music.apple.com
+      url: https://open.spotify.com/album/7InldtM8ecNUC2BtgE3jsC?si=UPQG4IcnSY2HbbBppY2-8g
 
 - title: You And Me
   date: 2017-06-27
   release_type: Single
   image: "./images/release-7.jpg"
+  tracklist:
+    - name: Original Mix (Vocals by Oliver Barabas)
+    - name: Instrumental Mix
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/album/7jSLmZjVsDecQuGZH4yXSR?si=gP0cAf39QLql2IGCTBoyvw
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/you-and-me-single/1254241222
 
 - title: Marc Need - Nevermore (Handsup Edition)
   date: 2017-08-18
   release_type: Remix
   image: "./images/release-8.jpg"
+  tracklist:
+    - name: Renox Remix
+    - name: Oliver Barabas Remix
+    - name: Jay&Dee Remix
+    - name: Aska Dance Project Remix
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/album/7axk7bzj3WfQVNgp1MYdAx?si=khaQHNFEQdCdu8EyGLSh1w
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/nevermore-hands-up-edition-remixes/1382725760
 
 - title: Bounce Monsters Vol. 1 (Upfront EDM & Bounce Tunes)
   date: 2017-08-19
-  release_type: CD 1, Track 21
-  image: "./images/release-9.jpg"
+  release_type: Various Artists
+  image: "./images/release-09.jpg"
+  tracklist:
+    - name: TeCay & Vandice - Turn It Up Again (TeCay Mix)
+    - name: Rene Rodrigezz - Kangaroo
+    - name: STBN - Awaiting
+    - name: Oliver Barabas - Let's Bounce (feat. Loelitah)
+    - name: ... and many more
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/album/1H0iCT9bxbhxCQ5ClW4Mgx?si=6_Frw9Q8TXe3ocC-56BycA
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/bounce-monsters-vol-1-upfront-edm-bounce-tunes/1274473997
 
 - title: Rise 2.0
   date: 2017-09-01
   release_type: EP
   image: "./images/release-10.jpg"
+  tracklist:
+    - name: Original Mix
+    - name: Shinson Remix
+    - name: Sounemot & Sothzanne String Remix
+    - name: Nadi Sunrise Remix
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/68xUJ56NBtYi7Hvb0aeHYa?si=FpDim2yBTe60qGGB-PjozQ
+    - name: Apple Music
+      url: https://music.apple.com/us/album/rise-2-0-remixes/1382715008
 
 - title: Technobase.FM Vol. 17
   date: 2017-09-01
-  release_type: CD 3, Track 9
+  release_type: Various Artists
   image: "./images/release-11.jpg"
+  tracklist:
+    - name: Ti-Mo - Stay
+    - name: Ziggy X - Drop The Bass
+    - name: Oliver Barabas - Freedom (feat. Loelitah)
+    - name: Manian - Ravers Fantasy
+    - name: Cascada - Everytime We Touch
+    - name: ... and many more
   links:
-    - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+    - name: Apple Music
+      url: https://music.apple.com/de/album/technobase-fm-vol-17/1275555612
+    - name: Amazon Music
+      url: https://www.amazon.de/TechnoBase-FM-Vol-17-Various-artists/dp/B0757JN729/
 
 - title: Technobase.FM Vol. 18
   date: 2017-12-01
-  release_type: CD 3, Track 3
+  release_type: Various Artists
   image: "./images/release-12.jpg"
+  tracklist:
+    - name: Master Blaster - Lost Without You (DJ THT Remix)
+    - name: Jens O. - Hold On 2 Me
+    - name: Dan Winter - Different
+    - name: Max R. - Love Me
+    - name: Oliver Barabas - Rise 2.0 (Shinson Remix)
+    - name: ... and many more
   links:
-    - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+    - name: Apple Music
+      url: https://music.apple.com/de/album/technobase-fm-vol-18/1315973303
+    - name: Amazon Music
+      url: https://www.amazon.de/Technobase-FM-Vol-18-Various-artists/dp/B077MMYLZG/
 
 - title: Feelings
   date: 2017-12-05
   release_type: Single
   image: "./images/release-13.jpg"
+  tracklist:
+    - name: Original Mix (Vocals by Sandra Bullet)
+    - name: Instrumental Mix
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/2rtFBQNUmzDEof2JpiuxxW?si=mYmRWRH7ROuhqZ3heRddZQ
+    - name: Apple Music
+      url: https://music.apple.com/us/album/feelings-single/1323415658
 
 - title: Let's Bounce (feat. Loelitah)
   date: 2017-12-08
   release_type: EP
   image: "./images/release-14.jpg"
+  tracklist:
+    - name: Original Mix
+    - name: TeCay Remix
+    - name: Mystic Experience Remix
+    - name: Instrumental Mix
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/2WSa3x2rfJsfnlRT9HMUjq?si=-QCuKg3RTvak-fLMawNG4g
+    - name: Apple Music
+      url: https://music.apple.com/de/album/lets-bounce-feat-loelitah-remixes-ep/1382632622
 
-- title: TeCay & Vandice - Turn It Up Again
+- title: TeCay & Vandice - Turn It Up Again (Second Edition)
   date: 2018-01-26
   release_type: Remix
   image: "./images/release-15.jpg"
+  tracklist:
+    - name: Oliver Barabas Remix
+    - name: Classic Dance Mix
+    - name: DJ R.Gee Über Nacht Mix
+    - name: Mindblast & Twice Remix
+    - name: Turn & Tide Remix
+    - name: ... and many more
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/1s7hVJRATiYJVt7gpKTdke?si=I68UEJ6iTVmLuOp_U5fmbA
+    - name: Apple Music
+      url: https://music.apple.com/us/album/turn-it-up-again-second-edition/1382599488
 
 - title: Freedom 2.0
   date: 2018-07-20
   release_type: EP
   image: "./images/release-16.jpg"
+  tracklist:
+    - name: Original Mix
+    - name: Mystic Experience Remix
+    - name: Beyond The Galaxy Remix
+    - name: Instrumental Mix
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/0bIwOBRIAvOF56R4isPV1s?si=vRTNYyy_QwqGkRgAB4u5yg
+    - name: Apple Music
+      url: https://music.apple.com/us/album/freedom-2-0-feat-loelitah-remixes-ep/1407857945
 
 - title: Oceans (Instrumental)
   date: 2018-09-28
   release_type: Single
   image: "./images/release-17.jpg"
+  tracklist:
+    - name: Instrumental Mix
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/7ofRbbewDiwBneChwmnhmO?si=f8Ve4BIoRQyHTQ2uzvgYtQ
+    - name: Apple Music
+      url: https://music.apple.com/us/album/oceans-instrumental-single/1437168440
 
 - title: R.Gee & TeCay - Are You Ready 2.0
   date: 2018-10-26
   release_type: Remix
   image: "./images/release-18.jpg"
+  tracklist:
+    - name: Radio Cut
+    - name: Oliver Barabas Remix
+    - name: Club Mix
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/74jZcxl7bJNttL72BlgLNE?si=gD_nqUJ_SlCT-njB1HT98g
+    - name: Apple Music
+      url: https://music.apple.com/us/album/are-you-ready-2-0-remixes-ep/1439340162
 
 - title: Cherry Inc. feat. CvB - Call Me
   date: 2018-11-16
   release_type: Remix
   image: "./images/release-19.jpg"
+  tracklist:
+    - name: Original Mix
+    - name: Dan Winter Remix
+    - name: Cloud Seven Remix
+    - name: DJ R.Gee Über Nacht Mix
+    - name: Oliver Barabas Remix
+    - name: ... and many more
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/5xW4PtinmSWt2crQEAKPFr?si=cGUlS5hOQ0CbSvf1IwJJVQ
+    - name: Apple Music
+      url: https://music.apple.com/de/album/call-me-feat-cvb-remixes/1436972242
 
 - title: Oceans
   date: 2018-11-30
   release_type: Single
   image: "./images/release-17.jpg"
+  tracklist:
+    - name: Original Mix (Vocals by Jitesh Jadwani)
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/6RP19XneLCcOIr5oLFPNsE?si=_69UHyrMRQCRnrfXp8IDIg
+    - name: Apple Music
+      url: https://music.apple.com/us/album/oceans-single/1441186032
 
 - title: TeCay - Remember Me
   date: 2018-12-14
   release_type: Remix
   image: "./images/release-20.jpg"
   tracklist:
-    - name: afsdf
-    - name: ifddfs
+    - name: Original Mix
+    - name: Sossky Remix
+    - name: Oliver Barabas Remix
+    - name: Memory Lane Remix
+    - name: Wild Specs Remix
   links:
     - name: Spotify
-      url: https://open.spotify.com/album/1PrRPiA91xhcHFVoCSBwpU
+      url: https://open.spotify.com/album/0zpUOHTQ31kVjNrgG1vgOY?si=_JXONY2CR0i4xX9IpzEsXQ
+    - name: Apple Music
+      url: https://music.apple.com/us/album/remember-me-remixes/1445440492

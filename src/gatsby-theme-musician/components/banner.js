@@ -8,6 +8,7 @@ import useSiteMetadata from "gatsby-theme-musician/src/use-site-metadata";
 import HeroImage from "gatsby-theme-musician/src/components/hero-image";
 import Social from "gatsby-theme-musician/src/components/social";
 import Typewriter from "typewriter-effect";
+import "./banner.css";
 
 let additionalStyles = {};
 let bgOverlayStyles = {};

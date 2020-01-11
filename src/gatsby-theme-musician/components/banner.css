@@ -1,0 +1,8 @@
+@media (max-width: 533px) {
+  h1 {
+    font-size: 36px !important;
+  }
+  .GtmBanner {
+    min-height: auto !important;
+  }
+}

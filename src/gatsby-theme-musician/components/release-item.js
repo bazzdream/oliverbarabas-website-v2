@@ -29,7 +29,7 @@ const ReleaseItem = ({
         }
       }}
     >
-      <ReactCardFlipper behavior="click" levitate>
+      <ReactCardFlipper behavior="hover">
         {image ? (
           <Img
             fluid={image.childImageSharp.fluid}
@@ -59,18 +59,22 @@ const ReleaseItem = ({
           className="backCover"
           sx={{
             color: "white",
-            width: 300,
-            maxWidth: "100%",
+            width: "100%",
+            maxWidth: "470",
             textAlign: "center",
             p: 4
           }}
         >
           {tracklist ? (
             <>
-              <h4>Tracklist</h4>
-              <ul>
+              <h3 sx={{ mt: 0 }}>Tracks</h3>
+              <ul sx={{ pl: 3 }}>
                 {tracklist.map(track => {
-                  return <li sx={{ textAlign: "left" }}>{track.name}</li>;
+                  return (
+                    <li key={track.name} sx={{ textAlign: "left" }}>
+                      {track.name}
+                    </li>
+                  );
                 })}
               </ul>
             </>
