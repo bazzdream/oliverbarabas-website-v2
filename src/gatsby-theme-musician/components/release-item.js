@@ -90,8 +90,10 @@ const ReleaseItem = ({
         className="GtmReleaseItem__date"
         sx={{ variant: "textStyles.itemSubheading" }}
       >
-        {new Date(date).toLocaleDateString("en-GB", {
-          year: "numeric"
+        {new Date(date).toLocaleDateString("en-US", {
+          year: "numeric",
+          month: "long",
+          day: "numeric"
         })}
         {release_type && <>&nbsp;&middot;&nbsp;{release_type}</>}
       </div>
