@@ -1,14 +1,18 @@
+import {jsx } from "theme-ui"
+import AnchorLink from "react-anchor-link-smooth-scroll"
+import Obfuscate from "react-obfuscate"
+
 <Banner />
 
 <Container>
 
-**Hello, i am german music producer Oliver Barabas! 👋**
+**Hello, i am Oliver Barabas – music producer from Germany! 👋**
 
-Since late 1999 i'm producing all kinds of EDM ranging from Trance to House to Pop music (old projects “DJ X-Dream”, “bazzdream”).
+Since late 1999 i produced all sorts of EDM ranging from Trance to House to Pop music (old projects “DJ X-Dream”, “bazzdream”).
 
-After a long break i started my comeback under my real name by participating in a remix contest for Gareth Emery's "Save Me" in August 2016. Since then i got some national and international radio airplays, Beatport Top 20 release chart positions and placements on music compilations like [Future Trance 80, Technobase.FM 16, Technobase.FM 17, Technobase.FM 18, Bounce Monsters Vol.1](#releases) and many more...
+After a long break i started my comeback under my real name by participating in a remix contest for Gareth Emery's "Save Me" in August 2016. Since then i got some national and international radio airplays, Beatport Top 20 release chart positions and placements on music compilations like <AnchorLink href="#releases" style="color:inherit">Future Trance 80, Technobase.FM 16, Technobase.FM 17, Technobase.FM 18, Bounce Monsters Vol.1</AnchorLink> and many more...
 
-Enjoy listening to some of my [releases](#releases) and feel free to [contact](#contact) me!
+Enjoy listening to some of my <AnchorLink href="#releases" style="color:inherit">releases</AnchorLink> and feel free to <AnchorLink href="#contact" style="color:inherit">contact</AnchorLink> me!
 
 <Releases releases={props.releases} />
 
@@ -18,7 +22,7 @@ Enjoy listening to some of my [releases](#releases) and feel free to [contact](#
 
 <div id="contact" className="text-center">
 
-hello@oliverbarabas.com
+<Obfuscate email="hello@oliverbarabas.com" style="color:inherit" />
 
 </div>
 
