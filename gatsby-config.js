@@ -5,24 +5,17 @@
  */
 
 module.exports = {
-  // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
     title: "Oliver Barabas",
     description: "",
-    siteUrl: "https://github.com/ekafyi/starter-musician-theme"
+    siteUrl: "https://oliverbarabas.com"
   },
   plugins: [
-    // Add gatsby-theme-musician to your site
     {
-      resolve: "gatsby-theme-musician",
-      // More info about the theme options:
-      // https://github.com/ekafyi/gatsby-theme-musician/blob/master/docs/usage.md#theme-options
-      options: {
-        // These are default values that you can override
-        // basePath: `/`,
-        // content: `content`,
-        // pwaName: null
-      }
+      resolve: "gatsby-theme-musician"
+    },
+    {
+      resolve: "gatsby-plugin-sitemap"
     }
   ]
 };

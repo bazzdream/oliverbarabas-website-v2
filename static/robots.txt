@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://oliverbarabas.com/sitemap.xml
+Host: https://oliverbarabas.com

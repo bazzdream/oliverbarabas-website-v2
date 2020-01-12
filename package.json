@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "gatsby": "^2.13.28",
+    "gatsby-plugin-sitemap": "^2.2.25",
     "gatsby-theme-musician": "^1.0.5",
     "react": "^16.8.6",
     "react-card-flipper": "^1.0.1",
