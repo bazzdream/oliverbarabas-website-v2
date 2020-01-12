@@ -41,10 +41,23 @@ export default ({ children }) => {
           Copyright © {new Date().getFullYear()} {title}. All rights reserved.
           <br />
           Built with ❤️ and{" "}
-          <Styled.a href="https://gatsbyjs.org" rel="external nofollow">
+          <Styled.a
+            href="https://gatsbyjs.org"
+            target="_blank"
+            rel="external nofollow noopener noreferrer"
+          >
             Gatsby
           </Styled.a>
           .
+          <br />
+          <br />
+          <Styled.a href="/legal/impressum" rel="nofollow">
+            Impressum
+          </Styled.a>{" "}
+          und{" "}
+          <Styled.a href="/legal/datenschutz" rel="nofollow">
+            Datenschutzerklärung
+          </Styled.a>
         </small>
       )}
     </footer>
