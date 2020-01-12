@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/home/*"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://oliverbarabas.netlify.com"
+  to = "https://oliverbarabas.com"
+  status = 301
+  force = true
