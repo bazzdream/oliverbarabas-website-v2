@@ -6,4 +6,4 @@
 
 <p>&nbsp;</p>
 
-Using Gatsby (based on React) with Performance, Accessibility and SEO in mind.
+My new artist website using Gatsby (based on React) with Performance, Accessibility and SEO in mind. Initially created with [gatsby-theme-musician](https://github.com/ekafyi/gatsby-theme-musician/)
