@@ -18,3 +18,10 @@
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
+@supports (-webkit-text-size-adjust: none) and (not (-ms-accelerator: true)) and
+  (not (-moz-appearance: none)) {
+  svg {
+    filter: none !important;
+  }
+}
