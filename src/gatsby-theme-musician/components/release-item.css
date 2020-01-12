@@ -7,7 +7,7 @@
   box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.7);
 }
 .c015 .c012 {
-  filter: brightness(30%) blur(3px);
+  opacity: 0.1;
 }
 .c013 {
   width: 100% !important;
@@ -17,11 +17,4 @@
   margin-top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-}
-
-@supports (-webkit-text-size-adjust: none) and (not (-ms-accelerator: true)) and
-  (not (-moz-appearance: none)) {
-  * {
-    filter: none !important;
-  }
 }

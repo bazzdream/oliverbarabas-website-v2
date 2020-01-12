@@ -58,7 +58,7 @@ const ReleaseItem = ({
         <div
           className="backCover"
           sx={{
-            color: "white",
+            color: "black",
             width: "100%",
             maxWidth: "470",
             textAlign: "center",
