@@ -67,7 +67,7 @@ const ReleaseItem = ({
         >
           {tracklist ? (
             <>
-              <h3 sx={{ mt: 0 }}>Tracks</h3>
+              <h3 sx={{ mt: 0 }}>{title}</h3>
               <ul sx={{ pl: 3 }}>
                 {tracklist.map(track => {
                   return (
@@ -79,11 +79,23 @@ const ReleaseItem = ({
               </ul>
             </>
           ) : (
-            <p>Tracklist coming soon...</p>
+            <>
+              <h3>{title}</h3>
+              <p>Tracklist coming soon...</p>
+            </>
           )}
         </div>
       </ReactCardFlipper>
-      <Styled.h4 className="GtmReleaseItem__title" sx={{ mb: 0, mt: 2 }}>
+      <Styled.h4
+        className="GtmReleaseItem__title"
+        sx={{ mb: 0, mt: 2 }}
+        css={{
+          whiteSpace: "nowrap",
+          overflow: "hidden",
+          textOverflow: "ellipsis"
+        }}
+        title={title}
+      >
         {title}
       </Styled.h4>
       <div
