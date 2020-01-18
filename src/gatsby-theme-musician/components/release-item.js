@@ -29,7 +29,7 @@ const ReleaseItem = ({
         }
       }}
     >
-      <ReactCardFlipper behavior="hover">
+      <ReactCardFlipper behavior="click">
         {image ? (
           <Img
             fluid={image.childImageSharp.fluid}

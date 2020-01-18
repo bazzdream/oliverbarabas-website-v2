@@ -1,0 +1,10 @@
+h2 {
+  margin-bottom: 0 !important;
+}
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.swiper-wrapper {
+  margin-bottom: 3.5rem;
+}
