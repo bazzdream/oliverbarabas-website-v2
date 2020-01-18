@@ -8,7 +8,7 @@ import Obfuscate from "react-obfuscate";
 const PrivacyPage = () => (
   <Layout>
     <SEO pageTitle="Datenschutz" />
-    <Container>
+    <Container style={{ padding: "15px" }}>
       <h2>Datenschutz</h2>
       <p>
         Wir informieren Sie nachfolgend gemäß den gesetzlichen Vorgaben des

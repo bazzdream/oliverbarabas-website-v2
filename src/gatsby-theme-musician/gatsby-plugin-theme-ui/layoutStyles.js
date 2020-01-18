@@ -18,6 +18,7 @@ const layoutStyles = {
     zIndex: 2,
     // end fixed position
     container: {
+      px: "15px",
       py: 0,
       display: "flex",
       flexDirection: "row",

@@ -8,7 +8,7 @@ import Obfuscate from "react-obfuscate";
 const ImprintPage = () => (
   <Layout>
     <SEO pageTitle="Impressum" />
-    <Container>
+    <Container style={{ padding: "15px" }}>
       <h2>Impressum</h2>
       <p>
         Oliver Barabas
