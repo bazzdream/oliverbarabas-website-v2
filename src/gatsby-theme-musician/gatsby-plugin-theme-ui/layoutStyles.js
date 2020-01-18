@@ -1,13 +1,15 @@
 import colors from "gatsby-theme-musician/src/gatsby-plugin-theme-ui/colors";
 import spacing from "gatsby-theme-musician/src/gatsby-plugin-theme-ui/spacing";
 import textStyles from "gatsby-theme-musician/src/gatsby-plugin-theme-ui/textStyles";
+import "./layoutStyles.css";
 
 const layoutStyles = {
   header: {
     background: colors.bgOpaque,
+    boxShadow: "rgba(0, 0, 0, 0.2) 0px 2px 4px 0px",
     color: colors.text,
     lineHeight: 0, // fix gap bug
-    minHeight: spacing.headerHeight,
+    minHeight: "60px",
     textAlign: ["center", null, "initial"],
     // fixed position
     position: "fixed",
@@ -18,7 +20,7 @@ const layoutStyles = {
     container: {
       py: 0,
       display: "flex",
-      flexDirection: ["column", null, "row"],
+      flexDirection: "row",
       alignItems: "center",
       justifyContent: "space-between"
     },
@@ -48,9 +50,7 @@ const layoutStyles = {
       whiteSpace: "nowrap",
       overflow: "hidden",
       textOverflow: "ellipsis",
-      flexGrow: 1,
-      flexBasis: ["auto", null, 0],
-      mt: [2, null, 0]
+      mt: [1, null, 0]
     }
     // iconLink: {
     //   borderRadius: "50%",
