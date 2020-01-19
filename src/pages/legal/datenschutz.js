@@ -45,13 +45,12 @@ const PrivacyPage = () => (
       </p>
       <strong>1. Arten der Daten, die wir verarbeiten</strong>
       <br />
-      Nutzungsdaten (Zugriffszeiten, besuchte Websites etc.),
+      Keine.
       <br />
       <br />
       <strong>2. Zwecke der Verarbeitung nach Art. 13 Abs. 1 c) DS-GVO</strong>
       <br />
-      Nutzererfahrung verbessern, Maßnahmen der Sicherheit,
-      Unterbrechungsfreier,sicherer Betrieb unserer Website,
+      Keine.
       <br />
       <br />
       <strong>
@@ -224,183 +223,6 @@ const PrivacyPage = () => (
           diese automatisch gelöscht, es sei denn wir benötigen deren
           Aufbewahrung zu Beweiszwecken bei Angriffen auf die
           Serverinfrastruktur oder anderen Rechtsverletzungen.
-          <br />
-        </li>
-      </ol>
-      <br />
-      <strong>Cookies</strong>
-      <ol>
-        <li>
-          Wir verwenden sog. Cookies bei Ihrem Besuch unserer Website. Cookies
-          sind kleine Textdateien, die Ihr Internet-Browser auf Ihrem Rechner
-          ablegt und speichert. Wenn Sie unsere Website erneut aufrufen, geben
-          diese Cookies Informationen ab, um Sie automatisch wiederzuerkennen.
-          Zu den Cookies zählen auch die sog. „Nutzer-IDs“, wo Angaben der
-          Nutzer mittels pseudonymisierter Profile gespeichert werden. Wir
-          informieren Sie dazu beim Aufruf unserer Website mittels eines
-          Hinweises auf unsere Datenschutzerklärung über die Verwendung von
-          Cookies zu den zuvor genannten Zwecken und wie Sie dieser
-          widersprechen bzw. deren Speicherung verhindern können („Opt-out“).
-          <br />
-          <br />
-          <strong>Es werden folgende Cookie-Arten unterschieden:</strong>
-          <br />
-          <br />
-          <strong>• Notwendige, essentielle Cookies:</strong> Essentielle
-          Cookies sind Cookies, die zum Betrieb der Webseite unbedingt
-          erforderlich sind, um bestimmte Funktionen der Webseite wie Logins,
-          Warenkorb oder Nutzereingaben z.B. bzgl. Sprache der Webseite zu
-          speichern.
-          <br />
-          <br />
-          <strong>• Session-Cookies:</strong> Session-Cookies werden zum
-          Wiedererkennen mehrfacher Nutzung eines Angebots durch denselben
-          Nutzer (z.B. wenn Sie sich eingeloggt haben zur Feststellung Ihres
-          Login-Status) benötigt. Wenn Sie unsere Seite erneut aufrufen, geben
-          diese Cookies Informationen ab, um Sie automatisch wiederzuerkennen.
-          Die so erlangten Informationen dienen dazu, unsere Angebote zu
-          optimieren und Ihnen einen leichteren Zugang auf unsere Seite zu
-          ermöglichen. Wenn Sie den Browser schließen oder Sie sich ausloggen,
-          werden die Session-Cookies gelöscht.
-          <br />
-          <br />
-          <strong>• Persistente Cookies:</strong> Diese Cookies bleiben auch
-          nach dem Schließen des Browsers gespeichert. Sie dienen zur
-          Speicherung des Logins, der Reichweitenmessung und zu
-          Marketingzwecken. Diese werden automatisiert nach einer vorgegebenen
-          Dauer gelöscht, die sich je nach Cookie unterscheiden kann. In den
-          Sicherheitseinstellungen Ihres Browsers können Sie die Cookies
-          jederzeit löschen.
-          <br />
-          <br />
-          <strong>
-            • Cookies von Drittanbietern (Third-Party-Cookies insb. von
-            Werbetreibenden):
-          </strong>{" "}
-          Entsprechend Ihren Wünschen können Sie Ihre Browser-Einstellung
-          konfigurieren und z. B. Die Annahme von Third-Party-Cookies oder allen
-          Cookies ablehnen. Wir weisen Sie jedoch an dieser Stelle darauf hin,
-          dass Sie dann eventuell nicht alle Funktionen dieser Website nutzen
-          können. Lesen Sie Näheres zu diesen Cookies bei den jeweiligen
-          Datenschutzerklärungen zu den Drittanbietern.
-          <br />
-          <br />
-        </li>
-        <li>
-          <strong>Datenkategorien:</strong> Nutzerdaten, Cookie, Nutzer-ID (inb.
-          die besuchten Seiten, Geräteinformationen, Zugriffszeiten und
-          IP-Adressen).
-          <br />
-          <br />
-        </li>
-        <li>
-          <strong>Zwecke der Verarbeitung:</strong> Die so erlangten
-          Informationen dienen dem Zweck, unsere Webangebote technisch und
-          wirtschaftlich zu optimieren und Ihnen einen leichteren und sicheren
-          Zugang auf unsere Website zu ermöglichen.
-          <br />
-          <br />
-        </li>
-        <li>
-          <strong>Rechtsgrundlagen:</strong> Wenn wir Ihre personenbezogenen
-          Daten mit Hilfe von Cookies aufgrund Ihrer Einwilligung verarbeiten
-          („Opt-in“), dann ist Art. 6 Abs. 1 S. 1 lit. a) DSGVO die
-          Rechtsgrundlage. Ansonsten haben wir ein berechtigtes Interesse an der
-          effektiven Funktionalität, Verbesserung und wirtschaftlichen Betrieb
-          der Website, so dass in dem Falle Art. 6 Abs. 1 S. 1 lit. f) DS-GVO
-          Rechtsgrundlage ist. Rechtsgrundlage ist zudem Art. 6 Abs. 1 S. 1 lit.
-          b) DS-GVO, wenn die Cookies zur Vertragsanbahnung z.B. bei
-          Bestellungen gesetzt werden.
-          <br />
-          <br />
-        </li>
-        <li>
-          <strong>Speicherdauer/ Löschung:</strong> Die Daten werden gelöscht,
-          sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr
-          erforderlich sind. Im Falle der Erfassung der Daten zur Bereitstellung
-          der Website ist dies der Fall, wenn die jeweilige Session beendet ist.
-          <br />
-          <br />
-          Cookies werden ansonsten auf Ihrem Computer gespeichert und von diesem
-          an unsere Seite übermittelt. Daher haben Sie als Nutzer auch die volle
-          Kontrolle über die Verwendung von Cookies. Durch eine Änderung der
-          Einstellungen in Ihrem Internetbrowser können Sie die Übertragung von
-          Cookies deaktivieren oder einschränken. Bereits gespeicherte Cookies
-          können jederzeit gelöscht werden. Dies kann auch automatisiert
-          erfolgen. Werden Cookies für unsere Website deaktiviert, können
-          möglicherweise nicht mehr alle Funktionen der Website vollumfänglich
-          genutzt werden.
-          <br />
-          <br />
-          <strong>
-            Hier finden Sie Informationen zur L&ouml;schung von Cookies nach
-            Browsern:
-          </strong>
-          <br />
-          <br />
-          <strong>Chrome:</strong>{" "}
-          <a
-            href="https://support.google.com/chrome/answer/95647"
-            target="_blank"
-            rel="nofollow noopener noreferrer"
-          >
-            https://support.google.com/chrome/answer/95647
-          </a>
-          <br />
-          <br />
-          <strong>Safari:</strong>{" "}
-          <a
-            href="https://support.apple.com/de-at/guide/safari/sfri11471/mac"
-            target="_blank"
-            rel="nofollow noopener noreferrer"
-          >
-            https://support.apple.com/de-at/guide/safari/sfri11471/mac
-          </a>
-          <br />
-          <br />
-          <strong>Firefox:</strong>{" "}
-          <a
-            href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen"
-            target="_blank"
-            rel="nofollow noopener noreferrer"
-          >
-            https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen
-          </a>
-          <br />
-          <br />
-          <strong>Internet Explorer:</strong>{" "}
-          <a
-            href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies"
-            target="_blank"
-            rel="nofollow noopener noreferrer"
-          >
-            https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies
-          </a>
-          <br />
-          <br />
-          <strong>Microsoft Edge:</strong>{" "}
-          <a
-            href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies"
-            target="_blank"
-            rel="nofollow noopener noreferrer"
-          >
-            https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies
-          </a>
-          <br />
-          <br />
-        </li>
-        <li>
-          <strong>Widerspruch und „Opt-Out“:</strong> Das Speichern von Cookies
-          auf Ihrer Festplatte können Sie unabhängig von einer Einwilligung oder
-          gesetzlichen Erlaubnis allgemein verhindern, indem Sie in Ihren
-          Browser-Einstellungen „keine Cookies akzeptieren“ wählen. Dies kann
-          aber eine Funktionseinschränkung unserer Angebote zur Folge haben. Sie
-          können dem Einsatz von Cookies von Drittanbietern zu Werbezwecken über
-          ein sog. „Opt-out“ über diese amerikanische
-          Website (https://optout.aboutads.info) oder diese europäische
-          Website (http://www.youronlinechoices.com/de/praferenzmanagement/)
-          widersprechen.
-          <br />
           <br />
         </li>
       </ol>
