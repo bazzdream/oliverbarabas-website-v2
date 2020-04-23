@@ -313,3 +313,18 @@
       url: https://open.spotify.com/album/0zpUOHTQ31kVjNrgG1vgOY?si=_JXONY2CR0i4xX9IpzEsXQ
     - name: Apple Music
       url: https://music.apple.com/us/album/remember-me-remixes/1445440492
+
+- title: Feelings Remixes (feat. Sandra Bullet)
+  date: 2020-04-13
+  release_type: EP
+  image: "./images/release-21.jpg"
+  tracklist:
+    - name: Sossky Remix
+    - name: Original Mix
+    - name: Mystic Experience Remix
+    - name: NoseBlind Remix
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/29oQBtYWI1BJW6yVNefXt6?si=qP9h4vbkSwKnQw3anZ4e1A
+    - name: Apple Music
+      url: https://music.apple.com/us/album/feelings-remixes-feat-sandra-bullet-ep/1507803676
