@@ -6,7 +6,14 @@
 
 @media (max-width: 533px) {
   h1 {
-    font-size: 36px !important;
+    font-size: 26px !important;
+    margin-bottom: 5px !important;
+  }
+  .Typewriter {
+    margin-bottom: 5px !important;
+  }
+  .Typewriter span {
+    font-size: 14px !important;
   }
   .GtmBanner {
     min-height: auto !important;

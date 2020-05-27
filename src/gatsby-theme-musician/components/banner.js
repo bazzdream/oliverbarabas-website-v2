@@ -15,10 +15,16 @@ let bgOverlayStyles = {};
 
 const BannerContent = ({ title, tagline }) => (
   <>
+    <iframe
+      width="300"
+      height="200"
+      frameborder="0"
+      src="https://ffm.to/p2p089/widget?width=300&amp;height=200&amp;note=New!"
+    ></iframe>
     <Styled.h1>{title}</Styled.h1>
     {tagline && (
       <Typewriter
-        onInit={typewriter => {
+        onInit={(typewriter) => {
           typewriter
             .pauseFor(500)
             .typeString(tagline.first + " ")
@@ -32,7 +38,7 @@ const BannerContent = ({ title, tagline }) => (
         options={{
           autoStart: true,
           loop: false,
-          delay: 50
+          delay: 50,
         }}
       />
     )}
@@ -53,8 +59,8 @@ const Banner = ({ children, bgOverlay, color }) => {
   if (bgOverlay) {
     bgOverlayStyles = {
       "&:after": {
-        background: bgOverlay
-      }
+        background: bgOverlay,
+      },
     };
   }
 
@@ -71,7 +77,7 @@ const Banner = ({ children, bgOverlay, color }) => {
       sx={{
         variant: "components.banner",
         ...additionalStyles,
-        ...bgOverlayStyles
+        ...bgOverlayStyles,
       }}
     >
       {bannerImg ? (
@@ -99,7 +105,7 @@ const Banner = ({ children, bgOverlay, color }) => {
 Banner.propTypes = {
   children: PropTypes.any,
   bgOverlay: PropTypes.string,
-  color: PropTypes.string
+  color: PropTypes.string,
 };
 
 export default Banner;
