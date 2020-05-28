@@ -17,7 +17,7 @@ const ReleaseItem = ({
   release_type,
   image,
   tracklist,
-  links
+  links,
 }) => {
   return (
     <article
@@ -25,8 +25,8 @@ const ReleaseItem = ({
       className="GtmReleaseItem"
       sx={{
         ".GtmReleaseItem__cover": {
-          borderRadius: 2
-        }
+          borderRadius: 2,
+        },
       }}
     >
       <ReactCardFlipper behavior="click">
@@ -48,7 +48,7 @@ const ReleaseItem = ({
                 top: "calc(50% - 1rem)",
                 width: "100%",
                 textAlign: "center",
-                color: "muted"
+                color: "muted",
               }}
             >
               no cover image
@@ -62,14 +62,14 @@ const ReleaseItem = ({
             width: "100%",
             maxWidth: "470",
             textAlign: "center",
-            p: 4
+            p: 4,
           }}
         >
           {tracklist ? (
             <>
               <h3 sx={{ mt: 0 }}>{title}</h3>
               <ul sx={{ pl: 3 }}>
-                {tracklist.map(track => {
+                {tracklist.map((track) => {
                   return (
                     <li key={track.name} sx={{ textAlign: "left" }}>
                       {track.name}
@@ -92,7 +92,7 @@ const ReleaseItem = ({
         css={{
           whiteSpace: "nowrap",
           overflow: "hidden",
-          textOverflow: "ellipsis"
+          textOverflow: "ellipsis",
         }}
         title={title}
       >
@@ -105,21 +105,20 @@ const ReleaseItem = ({
         {new Date(date).toLocaleDateString("en-US", {
           year: "numeric",
           month: "long",
-          day: "numeric"
+          day: "numeric",
         })}
         {release_type && <>&nbsp;&middot;&nbsp;{release_type}</>}
       </div>
       {links && (
         <div sx={{ variant: "textStyles.itemSubheading", mt: 2 }}>
-          Listen:&nbsp;
           <Styled.ul
             sx={{
               variant: "textStyles.inlineTextList",
               display: "inline",
-              lineHeight: 1.6
+              lineHeight: 1.6,
             }}
           >
-            {links.map(link => {
+            {links.map((link) => {
               return (
                 <a
                   key={link.name}
@@ -131,12 +130,12 @@ const ReleaseItem = ({
                     fontWeight: 700,
                     color: "text",
                     "&:hover": {
-                      color: "primary"
+                      color: "primary",
                     },
                     svg: {
                       verticalAlign: "middle",
-                      marginTop: -1
-                    }
+                      marginTop: -1,
+                    },
                   }}
                   target="_blank"
                   rel="external nofollow noopener noreferrer"

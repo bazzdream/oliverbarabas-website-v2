@@ -328,3 +328,18 @@
       url: https://open.spotify.com/album/29oQBtYWI1BJW6yVNefXt6?si=qP9h4vbkSwKnQw3anZ4e1A
     - name: Apple Music
       url: https://music.apple.com/us/album/feelings-remixes-feat-sandra-bullet-ep/1507803676
+
+- title: Lost In Space
+  date: 2020-05-29
+  release_type: Single
+  image: "./images/release-22.jpg"
+  tracklist:
+    - name: Extended Mix
+    - name: Radio Edit
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/6fjsZYIzvpjRBQ4GRJOrLD?si=6_LCZnarTvOGoPf004LMeg
+    - name: Apple Music
+      url: https://music.apple.com/de/album/lost-in-space-single/1512978676
+    - name: Beatport
+      url: https://www.beatport.com/release/lost-in-space/2965680
