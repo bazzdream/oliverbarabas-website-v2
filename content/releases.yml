@@ -343,3 +343,18 @@
       url: https://music.apple.com/de/album/lost-in-space-single/1512978676
     - name: Beatport
       url: https://www.beatport.com/release/lost-in-space/2965680
+
+- title: Lost In Space (Ravest Hard Remix)
+  date: 2020-07-03
+  release_type: Single
+  image: "./images/release-23.jpg"
+  tracklist:
+    - name: Ravest Hard Remix Edit
+    - name: Ravest Hard Remix
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/1y1FIWUdojNdpGywdMFPnv?si=hkAieBCJSi26QcXJMEMstQ
+    - name: Apple Music
+      url: https://music.apple.com/de/album/lost-in-space-ravest-hard-remix-remixes-single/1520172902
+    - name: Beatport
+      url: https://www.beatport.com/release/lost-in-space-ravest-hard-remix/3023918

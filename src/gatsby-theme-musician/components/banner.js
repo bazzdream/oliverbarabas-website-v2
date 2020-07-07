@@ -15,12 +15,6 @@ let bgOverlayStyles = {};
 
 const BannerContent = ({ title, tagline }) => (
   <>
-    <iframe
-      width="300"
-      height="200"
-      frameborder="0"
-      src="https://ffm.to/p2p089/widget?width=300&amp;height=200&amp;note=New!"
-    ></iframe>
     <Styled.h1>{title}</Styled.h1>
     {tagline && (
       <Typewriter
