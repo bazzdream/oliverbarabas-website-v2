@@ -372,3 +372,45 @@
       url: https://music.apple.com/de/album/1557928588?uo=4&app=music&at=11lwID&lId=22945430&cId=none&sr=4&src=Linkfire&itscg=30440&itsct=catchall_p4&ct=LFV_da368907312dbc709423113b2b87234c&ls=1
     - name: Beatport
       url: https://www.beatport.com/release/acid/3319009
+
+- title: No Pleasure
+  date: 2021-05-28
+  release_type: Single
+  image: "./images/release-25.jpg"
+  tracklist:
+    - name: Original Mix
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/track/7dQ2eYVPBU7SDs7j7m6RBe
+    - name: Apple Music
+      url: https://music.apple.com/de/album/1566362625?i=1566362626&uo=4&app=music&at=11lwID&lId=23082119&cId=none&sr=4&src=Linkfire&itscg=30440&itsct=catchall_p4&ct=LFV_ce54d702d3e972562de7728bff13264a&ls=1
+    - name: Beatport
+      url: https://www.beatport.com/track/no-pleasure/15276622
+
+- title: You (feat. Joe Bills)
+  date: 2021-07-30
+  release_type: Single
+  image: "./images/release-26.jpg"
+  tracklist:
+    - name: Original Mix
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/track/0OR09QBkkPUJExuot3Frvs
+    - name: Apple Music
+      url: https://music.apple.com/de/album/1576490366?app=music&at=11lwID&lId=23482666&cId=none&sr=4&src=Linkfire&itscg=30440&itsct=catchall_p4&ct=LFV_af42cf3320448a29c04e6d124a7238cd&ls=1
+    - name: Beatport
+      url: https://www.beatport.com/track/you-feat-joe-bills/15508919
+
+- title: Crazy Love
+  date: 2021-09-10
+  release_type: Single
+  image: "./images/release-27.jpg"
+  tracklist:
+    - name: Original Mix
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/5kMEhzzgAhab21Uscnwz8X
+    - name: Apple Music
+      url: https://music.apple.com/de/album/1582789525?app=music&at=11lwID&lId=23823594&cId=none&sr=4&src=Linkfire&itscg=30440&itsct=catchall_p4&ct=LFV_499fd8c7acb8f49638d47b934289cb08&ls=1
+    - name: Beatport
+      url: https://www.beatport.com/track/crazy-love/15639881
