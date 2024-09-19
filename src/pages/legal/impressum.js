@@ -11,20 +11,15 @@ const ImprintPage = () => (
     <Container style={{ padding: "15px" }}>
       <h2>Impressum</h2>
       <p>
-        Oliver Barabas
-        <br />
-        Nienkamp 5<br />
-        23795 Fahrenkrug
-      </p>
-      <p>
-        Telefon: 017661146869
-        <br />
-        E-Mail:{" "}
+        Online-Impressum.de<br />
+        Creator: The Walking Dad - Oliver Barabas<br />
+        Europaring 90<br />
+        53757 Sankt Augustin<br />
         <Obfuscate
-          email="hello@oliverbarabas.com"
+          email="walkingdadtv@gmail.com"
           style={{ color: "inherit" }}
-        />
-        <br />
+        /><br />
+        Tel: +49 176 61146869
       </p>
       <br />
       <br />

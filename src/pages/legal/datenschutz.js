@@ -26,13 +26,15 @@ const PrivacyPage = () => (
       Zif. 7 DS-GVO ist:
       <br />
       <br />
-      Oliver Barabas
-      <br />
-      Nienkamp 5<br />
-      23795, Fahrenkrug, Deutschland
-      <br />
-      E-Mail-Adresse:{" "}
-      <Obfuscate email="hello@oliverbarabas.com" style={{ color: "inherit" }} />
+      Online-Impressum.de<br />
+      Creator: The Walking Dad - Oliver Barabas<br />
+      Europaring 90<br />
+      53757 Sankt Augustin<br />
+      <Obfuscate
+        email="walkingdadtv@gmail.com"
+        style={{ color: "inherit" }}
+      /><br />
+      Tel: +49 176 61146869
       <br />
       <br />
       <strong>
