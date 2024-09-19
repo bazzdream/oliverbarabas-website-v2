@@ -414,3 +414,55 @@
       url: https://music.apple.com/de/album/1582789525?app=music&at=11lwID&lId=23823594&cId=none&sr=4&src=Linkfire&itscg=30440&itsct=catchall_p4&ct=LFV_499fd8c7acb8f49638d47b934289cb08&ls=1
     - name: Beatport
       url: https://www.beatport.com/track/crazy-love/15639881
+
+- title: Holdin' Me Up
+  date: 2021-11-12
+  release_type: Single
+  image: "./images/release-28.jpg"
+  tracklist:
+    - name: Radio Edit
+    - name: Extended Mix
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/intl-de/album/4quERPdsMp8oDia73m45f6?si=iYS76Dy0Taei0qI4_gxRyg
+
+- title: It's Still A Dream
+  date: 2022-03-08
+  release_type: Single
+  image: "./images/release-29.jpg"
+  tracklist:
+    - name: Radio Edit
+    - name: Extended Mix
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/intl-de/album/5haCDXEJtXyztf970baLWQ?si=WoCsKCahQcOVkOMsUYB3FQ
+
+- title: Maybe (You Could Be Mine)
+  date: 2022-06-17
+  release_type: Single
+  image: "./images/release-30.jpg"
+  tracklist:
+    - name: Radio Edit
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/intl-de/album/4nNXpn8ODTj5bt7O6jsLmh?si=whZ3MWMYSXO_qiD27rfIOg
+
+- title: Contigo
+  date: 2022-09-09
+  release_type: Single
+  image: "./images/release-31.jpg"
+  tracklist:
+    - name: Radio Edit
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/intl-de/album/4uu4u2D1dv4ih7u82sJ5LI?si=IgCKb_L8QP-afWm5iMF9tw
+
+- title: Dein ist mein ganzes Herz
+  date: 2022-12-09
+  release_type: Single
+  image: "./images/release-32.jpg"
+  tracklist:
+    - name: Radio Edit
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/intl-de/album/48WDG3flc78Kq13aRYkJf1?si=HFAE4zHUSiKhnlOr--GMLQ
