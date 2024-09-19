@@ -27,7 +27,7 @@ const PrivacyPage = () => (
       <br />
       <br />
       Online-Impressum.de<br />
-      Creator: The Walking Dad - Oliver Barabas<br />
+      Creator: WalkingDadTv - Oliver Barabas<br />
       Europaring 90<br />
       53757 Sankt Augustin<br />
       <Obfuscate
